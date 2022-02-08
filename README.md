@@ -22,4 +22,4 @@ In the construction industry, the punch-list is a list of all items of work that
 - Create email/distribution list
 - Add/Delete projects from database
 - Add punch-lists to existing projects (i.e. lists for different project phases)
-
+- Project description: Create fields for Owner/Architect/GC/etc., contact info, address, etc.
