@@ -19,10 +19,10 @@ In the construction industry, the punch-list is a list of all items of work that
     - Add audio
     - Add video
     - Create a PDF report
-    - Push report to database
-    - Delete from database
+    - Push report to database/local storage
+    - Delete from database/local storage
     - Email report
 - Create email/distribution list
-- Add/Delete projects from database
+- Add/Delete projects from database (or just local storage? Not sure how I will host a db for testing)
 - Add punch-lists to existing projects (i.e. lists for different project phases)
 - Project description: Create fields for Owner/Architect/GC/etc., contact info, address, etc.
